@@ -1,0 +1,70 @@
+/* Style for buttons */
+.button-container {
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+}
+
+.button {
+  background-color: #9acffa;
+  color: #fff;
+  border: none;
+  border-radius: 0.5rem;
+  padding: 0.5rem 1rem;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.button:hover {
+  background-color: #6eb5ff;
+}
+
+/* Style for header */
+.header-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 2rem;
+}
+
+.title {
+  font-size: 2rem;
+  color: #333;
+}
+
+.add-icon {
+  font-size: 2rem;
+  color: #0d6efd;
+  cursor: pointer;
+}
+
+.add-icon:hover {
+  color: #0a58ca;
+}
+
+/* Style for welcome message */
+.welcome-container {
+  margin-top: 2rem;
+}
+
+.welcome-heading {
+  font-size: 2rem;
+  color: #333;
+}
+
+.welcome-text {
+  font-size: 1.2rem;
+  color: #555;
+  margin-top: 1rem;
+}
+
+/* Style for project description */
+.project-description {
+  font-size: 1rem;
+  color: #666;
+  margin-top: 2rem;
+}
+
+.project-description p {
+  margin-bottom: 1rem;
+}
