@@ -1,4 +1,4 @@
-# MEARN Stack (MongoDB, Express, React, Node.js)
+#👨‍💻 MEARN Stack (MongoDB, Express, React, Node.js)</>💻
 
 ## Description
 
