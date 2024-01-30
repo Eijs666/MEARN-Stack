@@ -1,8 +1,8 @@
-#👨‍💻 MEARN Stack (MongoDB, Express, React, Node.js)</>💻
+# MEARN Stack (MongoDB, Express, React, Node.js
 
 ## Description
 
-This project is a demonstration of my skills in full-stack web development using the MERN stack (MongoDB, Express, React, Node.js). It includes functionalities such as creating, reading, updating, and deleting books, showcasing both backend and frontend development capabilities.
+👨‍💻This project is a demonstration of my skills in full-stack web development using the MERN stack (MongoDB, Express, React, Node.js). It includes functionalities such as creating, reading, updating, and deleting books, showcasing both backend and frontend development capabilities.</>💻
 
 ## Features
 
